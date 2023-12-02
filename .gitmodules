@@ -1,6 +1,3 @@
-[submodule "BACK-END/TEMPLATE.FUNCTIONS/--force"]
-	path = BACK-END/TEMPLATE.FUNCTIONS/--force
-	url = git@github.com:GuilhermeMendes1503/Shipping.get-template.lambda.git
 [submodule "BACK-END/TEMPLATE.FUNCTIONS/get-template.lambda"]
 	path = BACK-END/TEMPLATE.FUNCTIONS/get-template.lambda
 	url = git@github.com:GuilhermeMendes1503/Shipping.get-template.lambda.git
